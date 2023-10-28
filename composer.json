@@ -1,0 +1,12 @@
+{
+    "name": "oberonlai/better-log-for-woocommerce",
+    "require": {
+        "a7/autoload": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "oberonlai",
+            "email": "m615926@gmail.com"
+        }
+    ]
+}
